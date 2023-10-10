@@ -19,21 +19,17 @@
 <img src="https://img.shields.io/badge/CSS-0077B5?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=blue">
-<img src="https://img.shields.io/badge/Angular-14354C?style=for-the-badge&logo=angular&logoColor=red">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-14354C?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-4EA94B?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Vscode-0077B5?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Pycharm-4EA94B?style=for-the-badge&logo=pycharm&logoColor=yellow">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue">
 </p>
 
 
 ## Github STATS :cyclone:
 
-![Edu58 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu58&show_icons=true&theme=radical&count_private=true)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=daisy-carolin)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <!-- ## Some Repos to Visit :blossom:
