@@ -4,7 +4,7 @@
 <p align="center">
   🍀 Currently working as a Django developer<br>
   🔭 I’m currently working on a clinical management system<br>
-  🌱 I’m currently learning Java<br>
+  🌱 I’m currently learning Odoo<br>
   👯 I’m looking to collaborate on Python/Django Projects<br>
   🤔 I’m looking for help with Learning Java for Backend<br>
   😄 Pronouns: She/Her
