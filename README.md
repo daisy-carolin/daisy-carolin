@@ -30,7 +30,11 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-4EA94B?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Vscode-0077B5?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Odoo-0F96F6?style=for-the-badge&logo=odoo&logoColor=white">
+  <img src="https://img.shields.io/badge/CRM-009688?style=for-the-badge&logo=crm&logoColor=white">
+  <img src="https://img.shields.io/badge/ERP-673AB7?style=for-the-badge&logo=erp&logoColor=white">
 </p>
+
 
 <h2 align="center">GitHub STATS :cyclone:</h2>
 <p align="center">
