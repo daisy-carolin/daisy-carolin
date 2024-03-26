@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋</h2>
-<h2 align="center">I'm Daisi Caroline</h2>
+<h2 align="center">I'm Daisi Caroline Odawa</h2>
 
 <p align="center">
   🍀 Currently working as a Django developer<br>
