@@ -2,7 +2,6 @@
 Hi there 👋</h2> <h2 align="center">I'm Daisi Caroline Odawa</h2> 
 <p align="center">
   🍀 Currently working as a Django developer<br>
-  🔭 I’m currently working on a clinical management system<br>
   🌱 I’m currently learning Odoo<br>
   👯 I’m looking to collaborate on Python/Django Projects<br> 
   🤔 I’m looking for help with Learning Java for Backend<br>
@@ -15,4 +14,4 @@ Active On:</h2> <p align="center"> <a href="https://www.linkedin.com/in/daisi-ca
   <img src="https://img.shields.io/badge/Odoo-0F96F6?style=for-the-badge&logo=odoo&logoColor=white">
   <img src="https://img.shields.io/badge/CRM-009688?style=for-the-badge&logo=crm&logoColor=white">
   <img src="https://img.shields.io/badge/ERP-673AB7?style=for-the-badge&logo=erp&logoColor=white">
- <img src="https://img.shields.io/badge/ERP-673AB7?style=for-the-badge&logo=erp&logoColor=white"> </p> <h2 align="center">GitHub STATS :cyclone:</h2> <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=daisy-carolin" alt="Your GitHub stats"> </a> </p> <h2 align="center">Open For Opportunities :purple_heart:</h2> <p align="center"> - Python Developer - Django Developer - Django + React </p> <h2 align="center">⚡ Fun fact:</h2> <p align="center">Also a Linguistic teacher</p> 
+ <h2 align="center">GitHub STATS :cyclone:</h2> <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=daisy-carolin" alt="Your GitHub stats"> </a> </p> <h2 align="center">Open For Opportunities :purple_heart:</h2> <p align="center"> - Python Developer - Django Developer - Django + React </p> <h2 align="center">⚡ Fun fact:</h2> <p align="center">Also a Linguistic teacher</p> 
