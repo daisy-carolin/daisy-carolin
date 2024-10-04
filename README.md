@@ -4,9 +4,9 @@
 <p align="center">
   🍀 Currently working as a Django developer<br>
   🔭 I’m currently working on a clinical management system<br>
-  🌱 I’m currently learning Odoo<br>
-  👯 I’m looking to collaborate on Python/Django Projects<br>
-  🤔 I’m looking for help with Learning Java for Backend<br>
+  🌱 I’m currently learning Odoo and enhancing my skills in ERP and CRM<br>
+  👯 I’m looking to collaborate on Python/Django projects<br>
+  🤔 I’m looking for help with learning Java for backend development<br>
   😄 Pronouns: She/Her
 </p>
 
@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/ERP-673AB7?style=for-the-badge&logo=erp&logoColor=white">
 </p>
 
-
 <h2 align="center">GitHub STATS :cyclone:</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -45,11 +44,11 @@
 
 <h2 align="center">Open For Opportunities :purple_heart:</h2>
 <p align="center">
-  - Python Developer
-  - Django Developer
-  - Django + React 
+  - Python Developer<br>
+  - Django Developer<br>
+  - Django + React Developer
 </p>
 
 <h2 align="center">⚡ Fun fact:</h2>
 <p align="center">Also a Linguistic teacher</p>
------
+
