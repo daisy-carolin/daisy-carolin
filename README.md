@@ -3,7 +3,6 @@
 
 <p align="center">
   🍀 Currently working as a Django developer<br>
-  🔭 I’m currently working on a clinical management system<br>
   🌱 I’m currently learning Odoo and enhancing my skills in ERP and CRM<br>
   👯 I’m looking to collaborate on Python/Django projects<br>
   🤔 I’m looking for help with learning Java for backend development<br>
