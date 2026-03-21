@@ -19,47 +19,7 @@
 📊 ERP Integrations with Industrial Devices <br>
 📱 Cross-platform mobile apps with React Native <br>
 ⚙️ Odoo Enterprise Solutions for Logistics & Inventory <br>
-
 </p>
-
----
-
-<h3 align="center">💼 Current Role</h3>
-
-<p align="center">
-Software Developer at <b>ScalesTech</b>
-</p>
-
-<p>
-
-At ScalesTech, I design and build intelligent industrial systems that integrate **hardware devices, IoT infrastructure, and enterprise software** to automate operations and improve data visibility across industrial environments.
-
-My work focuses on:
-
-• **ERP & Industrial Automation**
-- Designing ERP integrations for large-scale operations
-- Leading automation systems for weighbridges and logistics
-
-• **Odoo Enterprise Development**
-- Building Odoo modules for inventory, logistics, and financial tracking
-
-• **IoT System Integration**
-- Connecting industrial devices to enterprise platforms
-- Implementing real-time communication using **MQTT, HTTP, and Bluetooth**
-
-• **Mobile App Development**
-- Developing **React Native applications** for operational workflows
-
-• **User Experience Research**
-- Designing intuitive ERP dashboards for operational teams
-
-• **System Architecture & Documentation**
-- Documenting APIs, device communication flows, and automation architecture
-
-</p>
-
----
-
 <h3 align="center">🛠 Languages & Technologies</h3>
 
 <p align="center">
