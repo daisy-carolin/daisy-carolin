@@ -1,17 +1,134 @@
-<h2 align="center">
-Hi there 👋</h2> <h2 align="center">I'm Daisi Caroline Odawa </h2> 
-<p align="center">
-  🍀 Currently working as a Django developer<br>
-  🌱 I’m currently learning Odoo<br>
-  👯 I’m looking to collaborate on Python/Django Projects<br> 
-  🤔 I’m looking for help with Learning Java for Backend<br>
-  😄 Pronouns: She/Her
+<h2 align="center">Hi there 👋</h2>
 
-</p> <h2 align="center">
-Active On:</h2> <p align="center"> <a href="https://www.linkedin.com/in/daisi-caroline-6a611a207/" target="blank"> <img src="https://img.shields.io/badge/-Caroline%20Daisi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> <a href="https://twitter.com/DaisyOdawa" target="blank"> <img src="https://img.shields.io/badge/-Daisi%20Caroline-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/> </a> </p> <h2 align="center">Languages and Tools:</h2> <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-0077B5?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=blue"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Figma-4EA94B?style=for-the-badge&logo=figma&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Odoo-0F96F6?style=for-the-badge&logo=odoo&logoColor=white">
-  <img src="https://img.shields.io/badge/CRM-009688?style=for-the-badge&logo=crm&logoColor=white">
-  <img src="https://img.shields.io/badge/ERP-673AB7?style=for-the-badge&logo=erp&logoColor=white">
- <h2 align="center">GitHub STATS :cyclone:</h2> <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=daisy-carolin" alt="Your GitHub stats"> </a> </p> <h2 align="center">Open For Opportunities :purple_heart:</h2> <p align="center"> - Python Developer - Django Developer - Django + React </p> <h2 align="center">⚡ Fun fact:</h2> <p align="center">Also Embedded Systems Engineer</p> 
+<h2 align="center">I'm Daisi Caroline Odawa</h2>
+
+<p align="center">
+💻 Software Developer | Industrial Automation | IoT Engineer <br>
+🏭 Currently building ERP + IoT solutions at ScalesTech <br>
+📡 Passionate about connecting hardware with intelligent software systems <br>
+</p>
+
+---
+
+<h3 align="center">🌱 What I'm Currently Working On</h3>
+
+<p align="center">
+
+🚛 Weighbridge Automation Systems <br>
+📦 Warehouse Management Systems (WMS) <br>
+📊 ERP Integrations with Industrial Devices <br>
+📱 Cross-platform mobile apps with React Native <br>
+⚙️ Odoo Enterprise Solutions for Logistics & Inventory <br>
+
+</p>
+
+---
+
+<h3 align="center">💼 Current Role</h3>
+
+<p align="center">
+Software Developer at <b>ScalesTech</b>
+</p>
+
+<p>
+
+At ScalesTech, I design and build intelligent industrial systems that integrate **hardware devices, IoT infrastructure, and enterprise software** to automate operations and improve data visibility across industrial environments.
+
+My work focuses on:
+
+• **ERP & Industrial Automation**
+- Designing ERP integrations for large scale operations
+- Leading automation systems for weighbridges and logistics
+
+• **Odoo Enterprise Development**
+- Building Odoo modules for inventory, logistics, and financial tracking
+
+• **IoT System Integration**
+- Connecting industrial devices to enterprise platforms
+- Implementing real-time communication using **MQTT, HTTP, and Bluetooth**
+
+• **Mobile App Development**
+- Developing **React Native applications** for operational workflows
+
+• **User Experience Research**
+- Designing intuitive ERP dashboards for operational teams
+
+• **System Architecture & Documentation**
+- Documenting APIs, device communication flows, and automation architecture
+
+</p>
+
+---
+
+<h3 align="center">🛠 Languages & Technologies</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white">
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white">
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white">
+
+<img src="https://img.shields.io/badge/HTTP-00599C?style=for-the-badge&logo=protocols&logoColor=white">
+
+<img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white">
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+</p>
+
+---
+
+<h3 align="center">🌐 Active On</h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/daisi-caroline-6a611a207/">
+<img src="https://img.shields.io/badge/LinkedIn-Caroline%20Daisi-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://twitter.com/DaisyOdawa">
+<img src="https://img.shields.io/badge/Twitter-Daisi%20Caroline-blue?style=for-the-badge&logo=twitter">
+</a>
+
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=daisy-carolin&show_icons=true&theme=tokyonight">
+
+</p>
+
+---
+
+<h3 align="center">🚀 Open To Opportunities</h3>
+
+<p align="center">
+
+Python Developer <br>
+Django Developer <br>
+IoT Systems Developer <br>
+ERP & Odoo Developer <br>
+
+</p>
+
+---
+
+<h3 align="center">⚡ Fun Fact</h3>
+
+<p align="center">
+I love building systems where **hardware meets intelligent software**.
+</p>
