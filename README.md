@@ -37,7 +37,7 @@ At ScalesTech, I design and build intelligent industrial systems that integrate 
 My work focuses on:
 
 • **ERP & Industrial Automation**
-- Designing ERP integrations for large scale operations
+- Designing ERP integrations for large-scale operations
 - Leading automation systems for weighbridges and logistics
 
 • **Odoo Enterprise Development**
